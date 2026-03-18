@@ -1,6 +1,20 @@
 
 # ANALYSE-ET-VISUALISATION-DE-DONNEES-PRODUITS-ET-VENTES-INTERNATIONALES
 
+## 📸 Aperçu du dashboard
+
+### Page Accueil
+![Accueil](Accueil.png)
+
+### Page Boutiques
+![Boutiques](Boutiques.png)
+
+### Page Produits
+![Produits](produits.png)
+
+### Page Ventes
+![Ventes](ventes.png)
+
 🗝️ But du projet:
 
 Analyser les ventes des boutiques réparties sur trois continents en explorant les performances commerciales afin d’identifier les tendances et les opportunités d’expansion.
@@ -16,20 +30,6 @@ Power BI(Tableaux de bord interactifs), Python (Pandas, NumPy), DAX (Utilisation
 📊 Résultats :
 
 • Amérique du Nord : Les ventes ont augmenté de 5% au dernier trimestre, soutenues par une forte demande en ligne. • Europe : Malgré une légère baisse de 2%, certaines régions montrent des signes de reprise. • Asie : Les ventes ont stagné, mais des marchés émergents comme l’Indonésie et les Philippines offrent des opportunités de croissance.
-
-## 📸 Aperçu du dashboard
-
-### Page Accueil
-![Accueil](Accueil.png)
-
-### Page Boutiques
-![Boutiques](Boutiques.png)
-
-### Page Produits
-![Produits](produits.png)
-
-### Page Ventes
-![Ventes](ventes.png)
 
 📈 Tendances observées :
 
