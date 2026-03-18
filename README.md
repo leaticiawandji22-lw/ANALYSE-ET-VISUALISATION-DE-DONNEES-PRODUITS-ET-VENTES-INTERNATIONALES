@@ -17,11 +17,6 @@ Power BI(Tableaux de bord interactifs), Python (Pandas, NumPy), DAX (Utilisation
 
 • Amérique du Nord : Les ventes ont augmenté de 5% au dernier trimestre, soutenues par une forte demande en ligne. • Europe : Malgré une légère baisse de 2%, certaines régions montrent des signes de reprise. • Asie : Les ventes ont stagné, mais des marchés émergents comme l’Indonésie et les Philippines offrent des opportunités de croissance.
 
-📈 Tendances observées :
-
-• E-commerce : La croissance rapide du commerce en ligne influence les ventes traditionnelles, nécessitant une adaptation des stratégies commerciales. 
-• Diversification : Les entreprises opérant sur plusieurs continents bénéficient d’une diversification des risques et d’une réduction des coûts.
-
 ## 📸 Aperçu du dashboard
 
 ### Page Accueil
@@ -35,3 +30,8 @@ Power BI(Tableaux de bord interactifs), Python (Pandas, NumPy), DAX (Utilisation
 
 ### Page Ventes
 ![Ventes](ventes.png)
+
+📈 Tendances observées :
+
+• E-commerce : La croissance rapide du commerce en ligne influence les ventes traditionnelles, nécessitant une adaptation des stratégies commerciales. 
+• Diversification : Les entreprises opérant sur plusieurs continents bénéficient d’une diversification des risques et d’une réduction des coûts.
