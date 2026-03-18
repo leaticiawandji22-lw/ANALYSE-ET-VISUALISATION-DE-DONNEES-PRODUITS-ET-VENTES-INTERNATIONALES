@@ -1,3 +1,4 @@
+
 # ANALYSE-ET-VISUALISATION-DE-DONNEES-PRODUITS-ET-VENTES-INTERNATIONALES
 
 🗝️ But du projet:
@@ -20,3 +21,17 @@ Power BI(Tableaux de bord interactifs), Python (Pandas, NumPy), DAX (Utilisation
 
 • E-commerce : La croissance rapide du commerce en ligne influence les ventes traditionnelles, nécessitant une adaptation des stratégies commerciales. 
 • Diversification : Les entreprises opérant sur plusieurs continents bénéficient d’une diversification des risques et d’une réduction des coûts.
+
+## 📸 Aperçu du dashboard
+
+### Page Accueil
+![Accueil](Accueil.png)
+
+### Page Boutiques
+![Boutiques](Boutiques.png)
+
+### Page Produits
+![Produits](produits.png)
+
+### Page Ventes
+![Ventes](ventes.png)
